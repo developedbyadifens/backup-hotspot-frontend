@@ -1,2 +1,2 @@
 # backup-hotspot-frontend
-template frontend hotspot mikrotik
+template frontend hotspot mikrotik rumah
